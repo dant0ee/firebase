@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907434322597",
+    "project_id": "dant0ee",
+    "storage_bucket": "dant0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907434322597:android:892d083226e14e791dbb4c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907434322597-k7kfsp4l4a1hqo9nt0rqs19dv3h71pq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdqn_pQ-KUeD3-_FBmmrcKVwracHVSbpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907434322597-k7kfsp4l4a1hqo9nt0rqs19dv3h71pq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
